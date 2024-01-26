@@ -1,15 +1,17 @@
-[{
-    "title": "Ethereum",
-    "url": "https://eth.blockscout.com/",
-    "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
-},
-{
-    "title": "MetaDAP (EVM)",
-    "url": "https://explorer.testnet.chain.metadap.io/",
-    "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/TuyenVo-MetaDap/blockscout/main/configs/network-logos/metadap.svg",
-    "invertIconInDarkMode": false,
-    "isActive": true
-}
+[
+    {
+        "title": "MetaDAP Enterprise Mainnet",
+        "url": "https://explorer.chain.metadap.io/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/TuyenVo-MetaDap/blockscout/main/configs/network-logos/metadap.svg",
+        "invertIconInDarkMode": false
+    },
+    {
+        "title": "MetaDAP Enterprise Testnet",
+        "url": "https://explorer.testnet.chain.metadap.io/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/TuyenVo-MetaDap/blockscout/main/configs/network-logos/metadap.svg",
+        "invertIconInDarkMode": false,
+        "isActive": true
+    }
 ]

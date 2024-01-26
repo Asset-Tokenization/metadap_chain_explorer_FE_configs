@@ -12,8 +12,12 @@
         "title": "MetaDAP Chain",
         "links": [
             {
-                "text": "Government",
+                "text": "Testnet Government",
                 "url": "https://staking.testnet.chain.metadap.io"
+            },
+            {
+                "text": "Mainnet Government",
+                "url": "https://staking.chain.metadap.io"
             }
         ]
     }
