@@ -1,17 +1,17 @@
 [
     {
        "author":"MetaDAP",
-       "id":"retx",
-       "title":"RETX",
-       "logo":"https://raw.githubusercontent.com/TuyenVo-MetaDap/blockscout/main/configs/marketplace-logos/Logo_RETX_02.png",
-       "logoDarkMode":"https://raw.githubusercontent.com/TuyenVo-MetaDap/blockscout/main/configs/marketplace-logos/Logo_RETX_02.png",
+       "id":"crowdfunding",
+       "title":"Metadap Crowdfunding",
+       "logo":"https://raw.githubusercontent.com/TuyenVo-MetaDap/blockscout/main/configs/marketplace-logos/logo_crowfunding.svg",
+       "logoDarkMode":"https://raw.githubusercontent.com/TuyenVo-MetaDap/blockscout/main/configs/marketplace-logos/logo_crowfunding.svg",
        "categories":[
           "Transactions, investment, and asset management"
        ],
-       "shortDescription":"RETX provides processes and tools to support businesses in asset tokenization, issuance of encrypted assets, and other digital assets such as loyalty points, evouchers, ecoupons, or etickets.",
-       "site":"https://retx.vn/",
-       "description":"RETX provides processes and tools to support businesses in asset tokenization, issuance of encrypted assets, and other digital assets such as loyalty points, evouchers, ecoupons, or etickets.",
-       "url":"https://retx.vn/",
+       "shortDescription":"MetaDAP Crowdfunding connects investors with reliable projects, helping to realize and accelerate innovative startup ideas. The application is built on MetaDAP Enterprise Blockchain, which ensures transaction data transparency and makes accounting and auditing tasks easier than ever. Additionally, investors can trade their investments either through the application or directly on the secondary market.",
+       "site":"https://crowdfunding.metadap.io",
+       "description":"MetaDAP Crowdfunding connects investors with reliable projects, helping to realize and accelerate innovative startup ideas. The application is built on MetaDAP Enterprise Blockchain, which ensures transaction data transparency and makes accounting and auditing tasks easier than ever. Additionally, investors can trade their investments either through the application or directly on the secondary market.",
+       "url":"https://crowdfunding.metadap.io",
        "external":true
     }
 
